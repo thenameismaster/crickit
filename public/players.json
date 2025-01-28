@@ -1,0 +1,288 @@
+{
+  "2008": {
+    "Mumbai Indians": [
+      {
+        "name": "Sachin Tendulkar",
+        "country": "India",
+        "position": "Batter",
+        "role": "Opener",
+        "birthYear": 1973
+      },
+      {
+        "name": "Sanath Jayasuriya",
+        "country": "Sri Lanka",
+        "position": "Batter",
+        "role": "Opener",
+        "birthYear": 1969
+      },
+      {
+        "name": "Shaun Pollock",
+        "country": "South Africa",
+        "position": "All-Rounder",
+        "role": "Bowling All-Rounder",
+        "birthYear": 1973
+      },
+      {
+        "name": "Harbhajan Singh",
+        "country": "India",
+        "position": "Bowler",
+        "role": "Off Spin",
+        "birthYear": 1980
+      },
+      {
+        "name": "Lasith Malinga",
+        "country": "Sri Lanka",
+        "position": "Bowler",
+        "role": "Right Arm Fast",
+        "birthYear": 1983
+      },
+      {
+        "name": "Robin Uthappa",
+        "country": "India",
+        "position": "Batter",
+        "role": "Middle Order",
+        "birthYear": 1986
+      },
+      {
+        "name": "Dwayne Bravo",
+        "country": "West Indies",
+        "position": "All-Rounder",
+        "role": "Bowling All-Rounder",
+        "birthYear": 1984
+      },
+      {
+        "name": "Abhishek Nayar",
+        "country": "India",
+        "position": "All-Rounder",
+        "role": "Batting All-Rounder",
+        "birthYear": 1984
+      },
+      {
+        "name": "Pinal Shah",
+        "country": "India",
+        "position": "Wicketkeeper",
+        "role": "Keeper-Batter",
+        "birthYear": 1987
+      },
+      {
+        "name": "Ajinkya Rahane",
+        "country": "India",
+        "position": "Batter",
+        "role": "Middle Order",
+        "birthYear": 1988
+      },
+      {
+        "name": "Ashish Nehra",
+        "country": "India",
+        "position": "Bowler",
+        "role": "Left Arm Fast",
+        "birthYear": 1979
+      },
+      {
+        "name": "Manish Pandey",
+        "country": "India",
+        "position": "Batter",
+        "role": "Middle Order",
+        "birthYear": 1989
+      },
+      {
+        "name": "Rohan Raje",
+        "country": "India",
+        "position": "Bowler",
+        "role": "Right Arm Fast Medium",
+        "birthYear": 1986
+      },
+      {
+        "name": "Dilhara Fernando",
+        "country": "Sri Lanka",
+        "position": "Bowler",
+        "role": "Right Arm Fast",
+        "birthYear": 1979
+      },
+      {
+        "name": "Luke Ronchi",
+        "country": "Australia",
+        "position": "Wicketkeeper",
+        "role": "Keeper-Batter",
+        "birthYear": 1981
+      },
+      {
+        "name": "Dominic Thornely",
+        "country": "Australia",
+        "position": "All-Rounder",
+        "role": "Batting All-Rounder",
+        "birthYear": 1979
+      },
+      {
+        "name": "Nuwan Kulasekara",
+        "country": "Sri Lanka",
+        "position": "Bowler",
+        "role": "Right Arm Medium",
+        "birthYear": 1982
+      },
+      {
+        "name": "Swapnil Singh",
+        "country": "India",
+        "position": "All-Rounder",
+        "role": "Bowling All-Rounder",
+        "birthYear": 1991
+      },
+      {
+        "name": "Sridharan Sriram",
+        "country": "India",
+        "position": "All-Rounder",
+        "role": "Batting All-Rounder",
+        "birthYear": 1976
+      },
+      {
+        "name": "Yogesh Takawale",
+        "country": "India",
+        "position": "Wicketkeeper",
+        "role": "Keeper-Batter",
+        "birthYear": 1984
+      }
+    ],
+    "Royal Challengers Bangalore": [
+      {
+        "name": "Rahul Dravid",
+        "country": "India",
+        "position": "Batter",
+        "role": "Top Order",
+        "birthYear": 1973
+      },
+      {
+        "name": "Jacques Kallis",
+        "country": "South Africa",
+        "position": "All-Rounder",
+        "role": "Batting All-Rounder",
+        "birthYear": 1975
+      },
+      {
+        "name": "Anil Kumble",
+        "country": "India",
+        "position": "Bowler",
+        "role": "Leg Spin",
+        "birthYear": 1970
+      },
+      {
+        "name": "Mark Boucher",
+        "country": "South Africa",
+        "position": "Wicketkeeper",
+        "role": "Keeper-Batter",
+        "birthYear": 1976
+      },
+      {
+        "name": "Virat Kohli",
+        "country": "India",
+        "position": "Batter",
+        "role": "Top Order",
+        "birthYear": 1989
+      },
+      {
+        "name": "Praveen Kumar",
+        "country": "India",
+        "position": "Bowler",
+        "role": "Right Arm Medium",
+        "birthYear": 1986
+      },
+      {
+        "name": "Zaheer Khan",
+        "country": "India",
+        "position": "Bowler",
+        "role": "Left Arm Fast Medium",
+        "birthYear": 1978
+      },
+      {
+        "name": "Dale Steyn",
+        "country": "South Africa",
+        "position": "Bowler",
+        "role": "Right Arm Fast",
+        "birthYear": 1983
+      },
+      {
+        "name": "Cameron White",
+        "country": "Australia",
+        "position": "All-Rounder",
+        "role": "Batting All-Rounder",
+        "birthYear": 1983
+      },
+      {
+        "name": "Ross Taylor",
+        "country": "New Zealand",
+        "position": "Batter",
+        "role": "Middle Order",
+        "birthYear": 1984
+      },
+      {
+        "name": "Wasim Jaffer",
+        "country": "India",
+        "position": "Batter",
+        "role": "Top Order",
+        "birthYear": 1978
+      },
+      {
+        "name": "Vinay Kumar",
+        "country": "India",
+        "position": "Bowler",
+        "role": "Right Arm Medium",
+        "birthYear": 1984
+      },
+      {
+        "name": "Bharat Chipli",
+        "country": "India",
+        "position": "Batter",
+        "role": "Middle Order",
+        "birthYear": 1983
+      },
+      {
+        "name": "Misbah-ul-Haq",
+        "country": "Pakistan",
+        "position": "Batter",
+        "role": "Middle Order",
+        "birthYear": 1974
+      },
+      {
+        "name": "Sunil Joshi",
+        "country": "India",
+        "position": "Bowler",
+        "role": "Left Arm Orthodox Spin",
+        "birthYear": 1970
+      },
+      {
+        "name": "Balachandra Akhil",
+        "country": "India",
+        "position": "All-Rounder",
+        "role": "Bowling All-Rounder",
+        "birthYear": 1977
+      },
+      {
+        "name": "Ashley Noffke",
+        "country": "Australia",
+        "position": "All-Rounder",
+        "role": "Bowling All-Rounder",
+        "birthYear": 1977
+      },
+      {
+        "name": "Devraj Patil",
+        "country": "India",
+        "position": "Wicketkeeper",
+        "role": "Keeper-Batter",
+        "birthYear": 1984
+      },
+      {
+        "name": "Abdur Razzak",
+        "country": "Bangladesh",
+        "position": "Bowler",
+        "role": "Left Arm Orthodox Spin",
+        "birthYear": 1982
+      },
+      {
+        "name": "Karan Sharma",
+        "country": "India",
+        "position": "Bowler",
+        "role": "Right Arm Medium",
+        "birthYear": 1985
+      }
+    ]
+  }
+}
